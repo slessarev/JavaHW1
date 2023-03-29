@@ -16,7 +16,7 @@ public class task6 {
 
         System.out.println();
         int[] newArr = changeArray(arr);
-        for (int i : arr) {
+        for (int i : newArr) {
             System.out.print(i);
         }
         
