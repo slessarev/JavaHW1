@@ -7,9 +7,7 @@ public class task1 {
         return ((a+b)>=10 && (a+b) <= 20 );
     }
     public static void main(String[] args) {
-        int a = 5;
-        int b = 7;
-        boolean result = SumOfValue(a,b);
+        boolean result = SumOfValue(5,7);
         System.out.println(result);
     }
     
